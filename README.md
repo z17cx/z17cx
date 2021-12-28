@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**z17cx/z17cx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System administrator and web developer. I am writing articles on system administration and development of various systems, applications and servers.
 
-Here are some ideas to get you started:
+## Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [WebSite](https://z17.cx/)
+- [mail@z17.im](mailto:mail@z17.im)
+
+## Social Networks
+
+- [Instagram](https://instagram.com/z17cx)
+- [LinkedIn](https://linkedin.com/in/z17cx)
+- [Telegram](https://t.me/z17cx)
+- [Twitch](https://twitch.tv/z17cx)
+- [Twitter](https://twitter.com/z17cx)
+- [Vk](https://vk.com/z17cx)
+
+## Development
+
+- [GitHub](https://github.com/z17cx)
+- [GitLab](https://gitlab.com/z17cx)
+
+## Donations
+
+- [Patreon](https://patreon.com/z17cx)
+- [Ko-fi](https://ko-fi.com/z17cx)
+- [Buy Me a Coffee](https://buymeacoffee.com/z17cx)
+
+## Statistic
+
+![](https://github-readme-stats.vercel.app/api?username=z17cx&show_icons=true)
