@@ -5,7 +5,7 @@ System administrator and web developer. I am writing articles on system administ
 ## Contacts
 
 - [WebSite](https://z17.cx/)
-- [mail@z17.im](mailto:mail@z17.im)
+- [mail@z17.cx](mailto:mail@z17.cx)
 
 ## Social Networks
 
