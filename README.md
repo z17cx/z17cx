@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-System administrator and web developer. I am writing articles on system administration and development of various systems, applications and servers.
+System administrator and web developer. I'm writing articles on system administration and development of various systems, applications and servers.
 
 ## Contacts
 
