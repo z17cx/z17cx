@@ -24,8 +24,6 @@ System administrator and web developer. I'm writing articles on system administr
 ## Donations
 
 - [Patreon](https://patreon.com/z17cx)
-- [Ko-fi](https://ko-fi.com/z17cx)
-- [Buy Me a Coffee](https://buymeacoffee.com/z17cx)
 
 ## Statistic
 
